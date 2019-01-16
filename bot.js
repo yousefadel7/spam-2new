@@ -1,8 +1,8 @@
 ﻿const Discord = require("discord.js");
 const client = new Discord.Client();
 const client2 = new Discord.Client();
-const prefix1 = "1" // برفكس
-const prefix2 = "2" // برفكس
+const prefix1 = "3" // برفكس
+const prefix2 = "4" // برفكس
 
 client.on('ready', () => {
    console.log(`----------------`);
